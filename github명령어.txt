@@ -14,9 +14,9 @@ git remote add origin 주소
 	- git add .
   	- git commit -m "message"  
 
-	###### 오류시 git commit -m 하기전에 git config --global user.email "~~"  
+	###### 오류시 gㄴt commit -m 하기전에 git config --global user.email "~~"  
 
-	- git push origin + master
+	- git push origin +master
 --------------
 당겨올때 
 1. 폴더정함
